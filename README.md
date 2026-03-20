@@ -1,1 +1,103 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sunaina+Singh+👋;Data+Analyst+%7C+BI+Developer;Turning+Data+into+Decisions!" alt="Typing SVG" />
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📍_Delhi,_India-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_Graduating-June_2026-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔍_Open_to-Internships-brightgreen?style=for-the-badge" />
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 Final-year **BBA-CAM** student at Chanderprabhu Jain College, GGSIPU  
+📊 Passionate about transforming raw data into **actionable business insights**  
+💡 Experienced in **Power BI, Python, SQL** and end-to-end dashboard development  
+🚀 Actively seeking **Data Analyst / Business Analyst Internships** in Delhi NCR  
+📧 sunainasingh.work@gmail.com
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### 📊 AdventureWorks Sales Data Analysis
+> Python • SQL • Power BI • Pandas • NumPy
+
+- Cleaned & analyzed **121K+ records** across 5 relational tables
+- Built **2 Power BI dashboards** with 19+ visuals & dynamic filters
+- Identified top product: Road Bikes ($29.65K) | Revenue: $114,667
+
+[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56/Adventureworks-project)
+
+---
+
+### 🛒 Madhav E-Commerce Sales Dashboard
+> Power BI • Excel • DAX • Power Query
+
+- Built 10-visual dashboard analyzing **5,615 transactions**
+- Revenue: ₹4,38,000 | Top Category: Clothing (63%)
+- Insights on regional marketing & inventory planning
+
+[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56/Madhav-Sales-Dashboard)
+
+---
+
+## 📜 Certifications
+
+| Certificate | Issuer | Year |
+|---|---|---|
+| ☁️ Cloud Computing Fundamentals | IBM SkillsBuild | 2026 |
+| 📊 Data Analytics Job Simulation | Deloitte Australia, Forage | 2026 |
+| 🤖 GenAI Powered Data Analytics | Tata Group, Forage | 2026 |
+| 📈 Quantitative Research | JPMorgan Chase & Co., Forage | 2026 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SunainaSingh56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunainaSingh56&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sunainasinghda-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sunainasinghda)
+[![Email](https://img.shields.io/badge/Email-sunainasingh.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunainasingh.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SunainaSingh56-181717?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SunainaSingh56&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
