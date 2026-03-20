@@ -76,15 +76,12 @@
 | 📈 Quantitative Research | JPMorgan Chase & Co., Forage | 2026 |
 
 ---
+## 🎯 Currently
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunainaSingh56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunainaSingh56&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
----
+- 🔍 Actively applying for **Data Analyst Internships** in Delhi NCR
+- 📊 Building projects in **Python, SQL & Power BI**
+- ☁️ Completing **IBM Cloud & Google Cloud** certifications
+- 💬 Ask me about **Power BI, Data Analysis, EDA**
 
 ## 📫 Let's Connect
 
