@@ -44,6 +44,18 @@
 
 ## 📌 Featured Projects
 
+### ☕ Coffee Shop Sales Dashboard
+> Excel • Pivot Tables • Power Query
+
+- Analyzed sales & footfall across 3 NYC store locations
+- Designed 6-visual interactive dashboard with Month & Day slicers
+- Identified peak hours (9–11 AM) driving highest orders
+- Total Sales: $6,98,812 | Footfall: 1,49,116
+
+[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56/Coffee-Shop-Sales-Excel-Dashboard)
+
+---
+
 ### 📊 AdventureWorks Sales Data Analysis
 > Python • SQL • Power BI • Pandas • NumPy
 
@@ -56,7 +68,7 @@
 ---
 
 ### 🛒 Madhav E-Commerce Sales Dashboard
-> Power BI • Excel • DAX • Power Query
+> PowerBI • Excel • DAX • Power Query
 
 - Built 10-visual dashboard analyzing **5,615 transactions**
 - Revenue: ₹4,38,000 | Top Category: Clothing (63%)
