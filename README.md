@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/📍_Delhi,_India-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎓_Graduating-June_2026-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔍_Open_to-Internships-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔍_Open_to-Work-brightgreen?style=for-the-badge" />
 </div>
 
 ---
@@ -17,7 +17,7 @@
 🎓 Final-year **BBA-CAM** student at Chanderprabhu Jain College, GGSIPU  
 📊 Passionate about transforming raw data into **actionable business insights**  
 💡 Experienced in **Power BI, Python, SQL** and end-to-end dashboard development  
-🚀 Actively seeking **Data Analyst / Business Analyst Internships** in Delhi NCR  
+🚀 Actively seeking **Data Analyst / Business Analyst Opportunities** in Delhi NCR  
 📧 sunainasingh.work@gmail.com
 
 ---
